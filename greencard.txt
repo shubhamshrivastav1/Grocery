@@ -1,0 +1,22 @@
+npm create vite@latest
+
+
+#Admin Credentials (seller)
+SELLER_EMAIL = "admin@example.com"
+SELLER_PASSWORD ="greatstack123"
+
+
+user
+
+Email - shubham@gmail.com
+
+password - shubham123
+
+
+fruntend----client
+
+npm run dev
+
+backend ---- server
+
+npm run server
