@@ -9,4 +9,7 @@ export default defineConfig({
     tailwindcss(),
   
   ],
+  build: {
+    outDir: 'dist', // Output folder for built files (default)
+  },
 })
