@@ -1,6 +1,3 @@
-Your README is already excellent and well-organized! Here's a refined and professional version with improved formatting, clarity, and markdown standards. I've preserved all your details but enhanced readability and polish.
-
----
 
 # 🛒 GreenCart – Grocery Delivery App (MERN Stack)
 
